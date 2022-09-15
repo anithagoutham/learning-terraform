@@ -6,10 +6,3 @@ output "test" {
   value = var.test
 }
 
-variable "test1" {
-  value = var.test1
-}
-
-variable "test2" {
-  value = var.test2
-}
